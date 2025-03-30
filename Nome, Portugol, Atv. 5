@@ -1,0 +1,9 @@
+programa {
+  funcao inicio() {
+    cadeia nome
+    escreva ("Qual e o seu nome?")
+    leia (nome)
+    escreva("Ola ", nome, "!")
+    
+  }
+}
